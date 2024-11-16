@@ -4,6 +4,7 @@
 This project involved detailed manual testing of the Adidas clone website. The objective was to ensure the website's functionality and improve the overall user experience. The testing process included creating various documents to track testing efforts and report findings.
 
 ---
+
 ## Project Type
 Manual Testing
 
@@ -44,5 +45,5 @@ To access the testing documentation, navigate to the respective directories. Rev
 - Manual Testing Techniques
 - Testing Documentation Tools ( mind maps)
 
-
+ [Test Plan](https://github.com/ashish1dadhich412/Project/blob/main/TEST_PLAN.pdf)
 
