@@ -47,5 +47,7 @@ To access the testing documentation, navigate to the respective directories. Rev
 
  [Test Plan](https://github.com/ashish1dadhich412/Project/blob/main/TEST_PLAN.pdf)
  [Test Scenario](https://github.com/ashish1dadhich412/Project/blob/main/Test_ScenarioSheet1.pdf)
+ [Test SUMMARY REPORT](https://github.com/ashish1dadhich412/Project/blob/main/TEST%20SUMMARY%20REPORT.pdf)
+ 
 
 
