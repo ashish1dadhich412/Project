@@ -51,5 +51,5 @@ To access the testing documentation, navigate to the respective directories. Rev
 
  [Test SUMMARY REPORT](https://github.com/ashish1dadhich412/Project/blob/main/TEST%20SUMMARY%20REPORT.pdf)
  
-
+ [Test Bug Report](https://github.com/ashish1dadhich412/Project/blob/main/Bug%20Report%20-%20Sheet1.pdf)
 
